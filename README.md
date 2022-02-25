@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Rubxn19/Rubxn19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Rubxn19&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="Rubxn19" /> 
   </p>
 
 <br>
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://public.tableau.com/app/profile/ruben.ortiz#!/" target="blank"><img align="center"
       src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png"
-      alt="Ruben Ortiz" height="30" width="100" /></a>
+      alt="Ruben Ortiz" height="30" width="125" /></a>
 </p>
 
 <br>
